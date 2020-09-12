@@ -1,0 +1,15 @@
+{
+  "name": "vigenere-cipher",
+  "version": "1.0.0",
+  "description": "encrypt & decrypt Vigenère ciphers",
+  "main": "vigenere.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Claes-Magnus Berg <claes-magnus@herebeseaswines.net>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
